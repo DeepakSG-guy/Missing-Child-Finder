@@ -1,12 +1,16 @@
-# Missing-Child-Finder
-AI-based Face Recognition System for Missing Children Identification.
+# missing_person
 
-User Roles → Admin, Police/NGO, Volunteer.
+A new Flutter project.
 
-Key Functions →
+## Getting Started
 
-Register a missing child (with photo, name, age, last seen location).
+This project is a starting point for a Flutter application.
 
-Search child via face recognition.
+A few resources to get you started if this is your first Flutter project:
 
-Notify authority if a match is found.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
